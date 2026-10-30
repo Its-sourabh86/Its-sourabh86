@@ -2,7 +2,7 @@
 
 ### 🚀 Java Backend Developer | Java | Spring Boot | REST APIs | SQL | DSA
 
-I'm a **Computer Science Engineering graduate (2026)** and a **Backend Developer with 5 months of professional experience**, focused on building reliable, secure, and maintainable backend applications using **Java and Spring Boot**.
+I'm a **Computer Science Engineering graduate (2026)** and a **Backend Developer with 1 Years of professional experience**, focused on building reliable, secure, and maintainable backend applications using **Java and Spring Boot**.
 
 I have hands-on experience developing **REST APIs, database-driven applications, authentication & authorization, business logic, API integrations, and production bug fixes**. I also enjoy solving Data Structures & Algorithms problems and continuously improving my backend engineering skills.
 
@@ -11,7 +11,7 @@ I have hands-on experience developing **REST APIs, database-driven applications,
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering — **Shri Ram Institute of Technology, Jabalpur**
-* 💼 **5 months of professional experience as a Backend Developer**
+* 💼 **1 Years of professional experience as a Backend Developer**
 * ☕ Strong focus on **Java & Spring Boot**
 * 🌐 Experienced in designing and developing **RESTful APIs**
 * 🔐 Hands-on experience with **Spring Security & JWT Authentication**
